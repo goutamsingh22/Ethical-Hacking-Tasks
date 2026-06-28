@@ -1,8 +1,8 @@
 #Part a : install nmap 
-![Nmap Scan](Screenshot/1.png)
+![Nmap Scan](screenshot/1.png)
 
 #Part B: scan your local machine 
-![Nmap Scan](Screenshot/2.png) 
+![Nmap Scan](screenshot/2.png) 
 Total Open Ports: 0 
 Port Numbers: None 
 Services Running: No services were detected because all 1000 scanned TCP ports were closed.
@@ -49,7 +49,9 @@ Conclusion
 Network ports enable communication between computers and services. While each port serves a specific purpose, improperly secured services can expose systems to cyber threats. Organizations should close unused ports, apply security updates, use strong authentication, encrypt communications where possible, and continuously monitor network activity to reduce security risks.
 
 #Part F: Scan analysis
+![Nmap Scan](screenshot/3.png)
 Analysis of Nmap Scan Results
+
 1. Which services are currently running?
 Based on the Nmap scan results, no network services were detected. All 1000 scanned TCP ports were closed, which means there were no services listening for incoming network connections at the time of the scan.
 
