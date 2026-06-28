@@ -1,8 +1,8 @@
 #Part a : install nmap 
-Image
+![Nmap Scan](Screenshot/1.png)
 
 #Part B: scan your local machine 
-: Image : 
+![Nmap Scan](Screenshot/2.png) 
 Total Open Ports: 0 
 Port Numbers: None 
 Services Running: No services were detected because all 1000 scanned TCP ports were closed.
