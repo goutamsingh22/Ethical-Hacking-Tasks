@@ -7,7 +7,18 @@ URL	https://kristujayanti.edu.in
 Reason for Choosing the Target	I selected my college website because I am a student of Kristu Jayanti University. It is a publicly accessible website that provides information about admissions, academics, events, and student services. Analyzing it helps me understand website structure and basic security concepts in an educational environment without performing any unauthorized activities.
 
 #Part B: whois lookup
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(2).png)
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(3).png)
 
+
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(4).png)
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(5).png)
+
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(7).png)
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(8).png)
+
+
+![registrar](https://github.com/goutamsingh22/Ethical-Hacking-Tasks/blob/ce5bcd7c9e10eea59847038e665a721e4a0f0eb8/EthicalHacking_Task_01_GOUTAM_SINGH_MUNDA/SCREENSHOTS/1%20(9).png)
 Field	Example (replace with your actual findings)
 Domain Name	kristujayanti.edu.in
 Registrar	National Internet Exchange of India
@@ -57,7 +68,6 @@ Referrer-Policy	No	Controls what referrer information is sent to other websites.
 
 
 #Part F: robots.txt & sitemap analysis
-![Nmap Scan](SCREENSHOTS/1(10).png)
 
 ![robottxt](SCREENSHOTS/1%20(10).png)
 
@@ -74,7 +84,10 @@ The robots.txt file can provide information such as:
 •	Which directories or pages are disallowed. 
 •	The location of the XML sitemap. 
 •	Instructions intended for search engine crawlers. 
-![Nmap Scan](SCREENSHOTS/1(11).png)
+![Nmap Scan](SCREENSHOTS/1%20(11).png)
+![Nmap Scan](SCREENSHOTS/1%20(1).png)
+
+
 From sitemap.xml
 The sitemap.xml file can provide information such as:
 •	A list of website URLs. 
