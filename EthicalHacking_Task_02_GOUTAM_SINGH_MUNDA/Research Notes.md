@@ -3,6 +3,7 @@
 
 #Part B: scan your local machine 
 ![Nmap Scan](screenshot/2.png) 
+
 Total Open Ports: 0 
 Port Numbers: None 
 Services Running: No services were detected because all 1000 scanned TCP ports were closed.
@@ -50,6 +51,7 @@ Network ports enable communication between computers and services. While each po
 
 #Part F: Scan analysis
 ![Nmap Scan](screenshot/3.png)
+
 Analysis of Nmap Scan Results
 
 1. Which services are currently running?
