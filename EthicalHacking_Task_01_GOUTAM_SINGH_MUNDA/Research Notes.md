@@ -57,7 +57,7 @@ Referrer-Policy	No	Controls what referrer information is sent to other websites.
 
 
 #Part F: robots.txt & sitemap analysis
-![Nmap Scan](SCREENSHOT/1(10).png)
+![Nmap Scan](SCREENSHOTS/1(10).png)
 
 1. Does the website have a robots.txt file?
 Answer: Yes. The website has a robots.txt file located at the root of the domain. This file provides instructions to search engine crawlers about which parts of the website they are allowed or not allowed to crawl. It may also include the location of the website's XML sitemap. 
@@ -72,7 +72,7 @@ The robots.txt file can provide information such as:
 •	Which directories or pages are disallowed. 
 •	The location of the XML sitemap. 
 •	Instructions intended for search engine crawlers. 
-![Nmap Scan](SCREENSHOT/1(11).png)
+![Nmap Scan](SCREENSHOTS/1(11).png)
 From sitemap.xml
 The sitemap.xml file can provide information such as:
 •	A list of website URLs. 
